@@ -14,3 +14,10 @@ The Car Models application is a web application that allows users to search for 
 
 - Node.js (version 14 or higher)
 - NPM (Node Package Manager)
+
+### Running the Application
+
+To run the application, navigate to the project directory in your terminal and execute the following command:
+
+```bash
+npm run dev
